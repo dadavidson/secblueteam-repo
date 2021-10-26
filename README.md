@@ -7,7 +7,7 @@ A collection of my certificates for [Security Blue Team](https://securityblue.te
 
 - [/OSINT](https://github.com/dadavidson/secblueteam-repo/tree/main/OSINT) - Intro to OSINT
 - [/Vulnerability Management](https://github.com/dadavidson/secblueteam-repo/tree/main/Vulnerability%20Management) - Intro to Vulnerability Management
-- [/Digital Forensics](https://github.com/dadavidson/secblueteam-repo/tree/main/Digital%20Forensics) - Intro to Digital Forensics (NOT COMPLETED)
+- [/Digital Forensics](https://github.com/dadavidson/secblueteam-repo/tree/main/Digital%20Forensics) - Intro to Digital Forensics
 - [/Network Analysis](https://github.com/dadavidson/secblueteam-repo/tree/main/Network%20Analysis) - Intro to Network Analysis
 - [/Threat Hunting](https://github.com/dadavidson/secblueteam-repo/tree/main/Threat%20Hunting) - Intro to Threat Hunting (NOT COMPLETED)
 - [/Darkweb Operations](https://github.com/dadavidson/secblueteam-repo/tree/main/Darkweb%20Operations) - Intro to Darkweb Operations (NOT COMPLETED)
