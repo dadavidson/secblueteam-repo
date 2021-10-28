@@ -10,4 +10,4 @@ A collection of my certificates for [Security Blue Team](https://securityblue.te
 - [/Digital Forensics](https://github.com/dadavidson/secblueteam-repo/tree/main/Digital%20Forensics) - Intro to Digital Forensics
 - [/Network Analysis](https://github.com/dadavidson/secblueteam-repo/tree/main/Network%20Analysis) - Intro to Network Analysis
 - [/Threat Hunting](https://github.com/dadavidson/secblueteam-repo/tree/main/Threat%20Hunting) - Intro to Threat Hunting (NOT COMPLETED)
-- [/Darkweb Operations](https://github.com/dadavidson/secblueteam-repo/tree/main/Darkweb%20Operations) - Intro to Darkweb Operations
+- [/Darkweb Operations](https://github.com/dadavidson/secblueteam-repo/tree/main/Darkweb%20Ops) - Intro to Darkweb Operations
